@@ -8,7 +8,14 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@pusher/chatkit-client": "^1.5.0",
+    "@pusher/chatkit-server": "^1.1.0",
+    "axios": "^0.18.0",
+    "body-parser": "^1.19.0",
     "core-js": "^2.6.5",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "oath": "^1.0.0",
     "vue": "^2.6.10"
   },
   "devDependencies": {
